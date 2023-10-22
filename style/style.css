@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.text-primary{
+    color: #FD6E0A;
+}
+.header-nav{
+    font-size: 45px;
+    font-weight: 800px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-left: 50px;
+}
