@@ -102,5 +102,55 @@ nav li{
 .about-discription{
     text-align: center;
     color:#757575;
-    /* font-size: 18px; */
+}
+.extra-about{
+    
+    margin: 0px 200px 100px 200px;
+}
+.extra-what-do{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.extra-about-pera{
+    text-align: center;
+    padding: 30px 100px 20px 130px;
+    color: #757575;
+    font-size: 18px;
+}
+/* About Me:-main(tag) end */
+
+
+/* Bio data start */
+.extra-info{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 50px;
+    justify-content: center;
+}
+.bettwen{
+    width: 230px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    margin-bottom: 30px; 
+}
+.experience-img{
+    padding: 30px
+}
+.experience-data{
+    padding: 0 30px ;
+}
+.experience-bio{
+    padding: 30px;
+    color: #757575;
+}
+/* Bio data end */
+
+
+/* CV Resume start */
+.cv{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
 }
