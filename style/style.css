@@ -124,7 +124,7 @@ nav li{
 /* Bio data start */
 .extra-info{
     display: flex;
-    gap: 30px;
+    gap: 50px;
     margin-bottom: 50px;
     justify-content: center;
 }
@@ -154,3 +154,41 @@ nav li{
     font-size: 35px;
     font-weight: 700;
 }
+/* summary resume start */
+.rsume-information{
+    margin: 100px 230px;
+    display: block;
+}
+.resume-intro{
+    width: 500px;
+}
+.resume-education{
+    font-size: 30px;
+    font-weight: 700px;
+    color: #474747;
+}
+.work-place{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700px;
+    padding:30px 0 5px 0;
+}
+.study-commpany{
+    font-size: 20px;
+    font-weight: 600px;
+    color: #757575;
+    padding-bottom: 20px;
+}
+.resum-pera{
+    color: #757575;
+    padding-bottom: 30px;
+}
+hr{
+    width: 558px;
+}
+/* 2nd summary kaj korci */
+/* .rsume-information-2nd{
+    margin: 100px 230px;
+    display: block;
+    gap: 30px;
+} */
