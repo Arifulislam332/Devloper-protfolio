@@ -114,7 +114,7 @@ nav li {
     display: flex;
     gap: 30px;
     padding: 0 80px 100px 80px;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .about-discription {
@@ -183,12 +183,13 @@ nav li {
 }
 
 /* summary resume start */
-.rsume-information {
-    margin: 100px 230px;
-    /* width: 1600px;
-    height: 4256px;
-    align-items: center; */
+.resume-information {
+    /* margin: 100px 230px; */
+    margin: 100px 0 150px 230px;
 
+}
+.resume-commpany{
+    margin: -680px 230px 150px 600px;
 }
 
 .resume-intro {
